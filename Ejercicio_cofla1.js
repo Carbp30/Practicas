@@ -5,7 +5,7 @@ dinero1 = prompt ("Ingrese cuanto dinero tienes a: ");
 dinero2 = prompt ("Ingrese cuanto dinero tienes b: ");
 dinero3 = prompt ("Ingrese cuanto dinero tienes c: ");
 
-//convierte a entero los datos ingresados
+//convierte a float (decimales) los datos ingresados
 dinero1= parseFloat(dinero1);
 dinero2= parseFloat(dinero2);
 dinero3= parseFloat(dinero3);
